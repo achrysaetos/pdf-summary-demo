@@ -2,6 +2,8 @@
 
 Super fast chat ui for summarizing pdf's using groq and nextjs. Deployed on Vercel: https://pdf-summary-demo.vercel.app/
 
+You can also view my demo recording walkthrough under `public/demo-recording.mp4`.
+
 ## How to run locally
 
 ```bash
